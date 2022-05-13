@@ -1,0 +1,13 @@
+:root {
+    --main:#E8F9FD;
+    --blue: #79DAE8;
+    --deep-blue:#0AA1DD;
+    --deepest:#2155CD;
+}
+body{
+
+    font-family: 'Roboto Flex', sans-serif;
+}
+.hero-section{
+    background-color: var(--main);
+}
